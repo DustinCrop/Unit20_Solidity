@@ -1,6 +1,6 @@
 # Unit 20 - "Looks like we've made our First Contract!"
 
-![contract](Images/smart-contract.png)
+![contract](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2019/06/09004118/EthereumSmartContract.png)
 
 ## Background
 
